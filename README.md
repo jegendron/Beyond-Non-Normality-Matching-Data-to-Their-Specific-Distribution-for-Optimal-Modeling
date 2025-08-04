@@ -14,7 +14,6 @@ Inputs the residual via an Excel file, then assesses what type of joint distribu
 
 Below shows the ability for the code to capture the correct distribution, the input data is Beta distributed (left shows the data compared to the Normal distribution, middle shows the data compared to the Student's t distribution, right shows the data compared to the Beta distribution):
 
-<img width="324" height="241" alt="Test Data - Normal Dist" src="https://github.com/user-attachments/assets/d78e2ee1-f088-4846-b4f4-ba154481be4d" />
 <img width="324" height="241" alt="Test Data - Student's t Dist" src="https://github.com/user-attachments/assets/763a13f6-4eeb-4394-8097-58f785b93712" />
 <img width="324" height="241" alt="Test Data - Beta Dist" src="https://github.com/user-attachments/assets/a9cba263-6e8c-4ecd-95dd-c2d3988a6db5" />
 
