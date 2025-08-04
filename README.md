@@ -30,8 +30,8 @@ Below shows ability for the code to capture the correct distribution (left shows
 ## <em>Empirical Example:</em>
 Sample datasets in experimental economics show that trust behavior was found to be Student's t distributed (bottom left), while trustworthy behavior was found to be Beta distributed (bottom right):
 
-<img width="450" height="350" alt="Sample Student's t Dist Data - Trust in Exp Econ" src="https://github.com/user-attachments/assets/90c4631f-0c73-466b-885d-3365c8384568" />
-<img width="450" height="350" alt="Sample Beta Dist Data - Trustworthiness in Exp Econ" src="https://github.com/user-attachments/assets/ef55f8b9-7e48-4347-9161-60741eb38605" />
+<img width="324" height="241" alt="Sample Student's t Dist Data - Trust in Exp Econ" src="https://github.com/user-attachments/assets/90c4631f-0c73-466b-885d-3365c8384568" />
+<img width="324" height="241" alt="Sample Beta Dist Data - Trustworthiness in Exp Econ" src="https://github.com/user-attachments/assets/ef55f8b9-7e48-4347-9161-60741eb38605" />
 
 ## <em>Coming Soon:</em>
 Additional distributions, currently undergoing testing.
