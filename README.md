@@ -1,0 +1,2 @@
+# Beyond-Non-Normality-Matching-Data-to-Their-Specific-Distribution-for-Optimal-Modeling
+This provides software to assess the joint distribution of a dataset beyond non-normality, testing aspects such as symmetric or skewed. This can be applied to certain behaviors in experimental economics such as trust and trustworthiness which were respectively found to be Student's t and Beta distributed in sample datasets.
